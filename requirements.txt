@@ -1,0 +1,9 @@
+# Install the Deepgram Python SDK
+# https://github.com/deepgram/deepgram-python-sdk
+
+deepgram-sdk==3.*
+
+# Install python-dotenv to protect your API key
+
+python-dotenv
+asyncio
